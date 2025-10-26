@@ -1,0 +1,5 @@
+{
+  "name": "Invoice Scanner AI",
+  "description": "An application that scans invoices using an uploaded image, extracts line items, and suggests accounting categorizations using the Gemini API.",
+  "requestFramePermissions": []
+}
